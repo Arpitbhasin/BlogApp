@@ -1,0 +1,13 @@
+i.icon {
+	font-size: 2em;
+}
+
+/*to seprete text at the top with margin*/
+.container.main{
+	margin-top: 7.0em;
+}
+
+#delete {
+	
+	display: inline;
+}

@@ -1,0 +1,21 @@
+#SHOW Time
+	*add show route 
+	*add show template 
+	*add links to show page 
+	*style show template 
+
+#edit/update
+	*Add edit route
+	*Add edit form
+	*add update route
+	*add update form
+	*add method overridden	
+
+#DESTROY 
+	*Add destroy route 
+	*Add Edit and dewstroy links
+
+#Final Updates
+	*sanitize blog body
+	*style index
+	*update rest table 
