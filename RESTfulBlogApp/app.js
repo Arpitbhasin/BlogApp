@@ -14,6 +14,9 @@ app.use(expressSanitizer());
 app.use(methodOverride("_method"));
 
 
+//Testing
+//Hello whatsapp;
+
 //Mongoose/Model Config
 var blogSchema = new mongoose.Schema({
 	title:String,
